@@ -6,7 +6,7 @@ A minimal Middleman template for basic Heroku setup.
 
 [Middleman](https://middlemanapp.com/) is an easy-to-use framework for building static websites. This wonderful static site generator allows you to create websites, configure and customize them, and then build and deploy to some target machine.
 
-However, getting things to work properly with [Heroku](https://www.heroku.com/) is not very straight-forward, and it took me awhile to figure things out.
+However, getting things to work properly with the cloud application platform [Heroku](https://www.heroku.com/) is not very straight-forward, and it took me awhile to figure things out.
 
 In order to help out my fellow developers out there and help them avoid the hassles and headaches I went through, I decided it'd be a nice gesture to publish my work.
 
