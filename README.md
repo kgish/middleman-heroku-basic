@@ -29,8 +29,10 @@ Point your favorite browser to http://localhost:4567/ and verify that things are
     
 ## References
 
-* [Middleman](https://middlemanapp.com/)
+* [Middleman Static Website Generator](https://middlemanapp.com/)
+* [Heroku Cloud Application Platform](https://www.heroku.com/)
 * [Deploying Rails Applications with the Puma Web Server](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
+* [Padrino Ruby Web Framework](http://padrinorb.com/)
 
 
   
