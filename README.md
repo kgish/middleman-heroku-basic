@@ -33,6 +33,7 @@ Point your favorite browser to http://localhost:4567 and verify that things are 
 * [Heroku Cloud Application Platform](https://www.heroku.com/)
 * [Deploying Rails Applications with the Puma Web Server](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
 * [Padrino Ruby Web Framework](http://padrinorb.com/)
+* [Middleman Forum - Asset Pipelining](https://forum.middlemanapp.com/t/asset-pipelining/2101/9)
 
 
 ## Author
