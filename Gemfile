@@ -28,8 +28,3 @@ source 'https://rails-assets.org' do
   gem 'rails-assets-bootstrap', '1.0.0'
   gem 'rails-assets-jquery', '2.1.1'
 end
-
-gem 'puma'
-
-# Templating
-gem 'slim', '~> 3.0.6'
