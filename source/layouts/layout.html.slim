@@ -9,9 +9,9 @@ html
 
     link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'
 
-    = stylesheet_link_tag :site
-    = javascript_include_tag :all
-    = favicon_tag 'images/favion.ico'
+    == stylesheet_link_tag :site
+    == javascript_include_tag :all
+    == favicon_tag 'images/favion.ico'
 
   body class=page_classes
-    = yield
+    == yield
